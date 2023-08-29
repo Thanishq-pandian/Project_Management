@@ -20,7 +20,7 @@
   }
   .list {
     background: orange;
-    width: 450px;
+    width: 500px;
     padding: 10px;
     border-radius: 16px;
     box-shadow: 0 0 128px 0 rgb(190 182 182 / 91%) 0px 0px 128px 0px,
@@ -81,7 +81,7 @@
   }
   .form input,
   .assign {
-    margin-top: 13px;
+    margin-top: 14px;
     height: 45px;
     border: none;
     font-size: 17px;
